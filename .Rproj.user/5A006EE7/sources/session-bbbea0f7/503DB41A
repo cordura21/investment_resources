@@ -5,7 +5,7 @@
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1751543149828.0,
     "source_on_save": false,
     "relative_order": 3,
@@ -18,14 +18,14 @@
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "708:619"
+        "rmdVisualModeLocation": "975:176"
     },
     "folds": "",
-    "lastKnownWriteTime": 1751545436,
+    "lastKnownWriteTime": 1751545870,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1751545484582,
+    "last_content_update": 1751545870703,
     "read_only": false,
     "read_only_alternatives": []
 }
