@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2025-07-03T08:48:56-03:00"
+      "last_modified": "2025-07-03T08:55:22-03:00"
     },
     {
       "path": "index.html",
-      "title": "My Website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Investment Resources List",
+      "description": "This is a list of public resources to share\n",
       "author": [],
-      "contents": "\nDo you see this?\nAndrés\n\n\n\n",
-      "last_modified": "2025-07-03T08:48:57-03:00"
+      "contents": "\nMacro Resources\nOur World in Data: Good for long term data like population trends, growth, debt, poverty, taxation, etc… Go to ourworldindata.org\nIMF Data Portal:\nAndrés\n\n\n\n",
+      "last_modified": "2025-07-03T08:55:23-03:00"
     }
   ],
   "collections": []

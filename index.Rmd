@@ -1,21 +1,14 @@
 ---
-title: "My Website"
+title: "Investment Resources List"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  This is a list of public resources to share
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+Macro Resources
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+-   Our World in Data: Good for long term data like population trends, growth, debt, poverty, taxation, etc... Go to [ourworldindata.org](https://ourworldindata.org)
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
-Do you see this?
+-   IMF Data Portal:
 
 Andrés
