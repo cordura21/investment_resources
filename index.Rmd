@@ -23,6 +23,8 @@ These are very valuable IMHO
 
 -   **Bionic Turtle** has great video tutorials. The old stuff is the best, for example the [options pricing playlist](https://www.youtube.com/watch?v=FBVo8l1WgTg&list=PL4108D90CA93915EB), the [Gordon Discount Model](https://www.youtube.com/watch?v=cN-sVL7OWcY), and many more. Visit [https://www.youtube.com/\@bionicturtle](https://www.youtube.com/@bionicturtle){.uri}
 
+-   **Convergence and Divergence**. Kathy Kaminski explains the difference, and it's a good mental model for thinking about risk and finance. See the video [here](https://www.youtube.com/watch?v=6vcxsJVBqIo).
+
 # Valuation Resources
 
 -   **Research Affiliates**. They have the Asset Allocation Interactive Tool [here](https://interactive.researchaffiliates.com/asset-allocation), where you can see current valuations and historical references. Go to <https://www.researchaffiliates.com> and subscribe, it's free.
