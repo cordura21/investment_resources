@@ -2,7 +2,7 @@ name: "investment_resources"
 title: "Investment Resources"
 description: |
   My Website
-output_dir: "docs"
+output_dir: "investment_resources"
 navbar:
   right:
     - text: "Home"
