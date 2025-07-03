@@ -1,7 +1,7 @@
 ---
 title: "Investment Resources List"
 description: |
-  This is a list of public resources to share
+  This is a list of public resources to share. Always check data quality, specially for free stuff.
 site: distill::distill_website
 ---
 
@@ -14,6 +14,14 @@ site: distill::distill_website
 -   **FRED**: the St. Louis Fred site has a lot of historical data, mainly from the US and also mainly about prices like interest rates, inflation, etc... Visit <https://fred.stlouisfed.org>
 
 -   **Index Of Economic Freedom**: this classifies countries by rule of law, market openness, etc... Countries with greater freedom do better in the long run. You can visualize the evolution and compare between countries and their freedom components [here](https://www.heritage.org/index/pages/dataviz)
+
+# Educational Resources
+
+These are very valuable IMHO
+
+-   **GummyStuff**. This is an old resource from a great guy, professor Peter Ponzo. He was a math professor and started teaching himself finance with these tutorials, and stopped posting in 2010 and died in 2020. But he was a great teacher. This motivated me to learn more about finance. The original site is archived [here](https://www.gummystuff.org), and there is an easier to use version in [this site](https://www.financialwisdomforum.org/gummy-stuff-tutorials/).
+
+-   **Bionic Turtle** has great video tutorials. The old stuff is the best, for example the [options pricing playlist](https://www.youtube.com/watch?v=FBVo8l1WgTg&list=PL4108D90CA93915EB), the [Gordon Discount Model](https://www.youtube.com/watch?v=cN-sVL7OWcY), and many more. Visit [https://www.youtube.com/\@bionicturtle](https://www.youtube.com/@bionicturtle){.uri}
 
 # Valuation Resources
 
