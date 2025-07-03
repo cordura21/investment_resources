@@ -23,8 +23,16 @@ site: distill::distill_website
 
 -   **Gurufocus** (freemium): good data for specific companies, some data is paid. Go to <https://www.gurufocus.com>
 
+# Backtesting and prices
+
+-   **Portfolio Visualizer.** has the best data quality, and great asset allocation tools (very powerful). Free data goes just up to 2008. Paid goes up to 1970, and you can upload your own. It does inflation adjusted data, etc... Go to <https://www.portfoliovisualizer.com>, or the legacy interface at <https://legacy.portfoliovisualizer.com> which I prefer.
+
+-   **OpenBB**. Tries to be a Bloomberg clone and looks very promising. Visit <https://openbb.co>
+
 # Knowing the market size
 
 -   **FinViz**. Good for understanding the size of the equity market. Go to the 'Maps' Menu [in this link](https://finviz.com/map.ashx), where you can see the size of the US, International and ETF markets. It also shows performance, valuations,etc... (always double check since free data sometimes is not reliable). Go to [finviz.com](https://finviz.com/map.ashx)
 
 -   **MSCI World Index site**. This index tries to cover most of the investable equities in the world by free float. Go to the site [here](https://www.msci.com/indexes/index/990100) and check the factsheets (like [this one](https://www.msci.com/documents/10199/178e6643-6ae6-47b9-82be-e1fc565ededb)): it will show you weights by country and industry.
+
+# 
