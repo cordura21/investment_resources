@@ -21,7 +21,8 @@ These are very valuable IMHO
 
 -   **GummyStuff**. This is an old resource from a great guy, professor Peter Ponzo. He was a math professor and started teaching himself finance with these tutorials, and stopped posting in 2010 and died in 2020. But he was a great teacher. This motivated me to learn more about finance. The original site is archived [here](https://www.gummystuff.org), and there is an easier to use version in [this site](https://www.financialwisdomforum.org/gummy-stuff-tutorials/).
 
--   **Bionic Turtle** has great video tutorials. The old stuff is the best, for example the [options pricing playlist](https://www.youtube.com/watch?v=FBVo8l1WgTg&list=PL4108D90CA93915EB), the [Gordon Discount Model](https://www.youtube.com/watch?v=cN-sVL7OWcY), and many more. Visit [https://www.youtube.com/\@bionicturtle](https://www.youtube.com/@bionicturtle){.uri}
+-   **Bionic Turtle** has great video tutorials. The old stuff is the best, for example the [Time Value of Money video](https://youtu.be/xxtigFVBEGA?si=glyHSsYt2gWKzL2U), the [options pricing playlist](https://www.youtube.com/watch?v=FBVo8l1WgTg&list=PL4108D90CA93915EB), the [Gordon Discount Model](https://www.youtube.com/watch?v=cN-sVL7OWcY), and many more. \
+    Visit [https://www.youtube.com/\@bionicturtle](https://www.youtube.com/@bionicturtle){.uri}
 
 -   **Convergence and Divergence**. Kathy Kaminski explains the difference, and it's a good mental model for thinking about risk and finance. See the video [here](https://www.youtube.com/watch?v=6vcxsJVBqIo).
 
