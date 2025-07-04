@@ -9,6 +9,8 @@ site: distill::distill_website
 
 -   **Our World in Data**: Good for visualizing long term data like population trends, growth, debt, poverty, taxation, etc... Go to [ourworldindata.org](https://ourworldindata.org) and check for example [population growth data](https://ourworldindata.org/population-growth), [debt over gdp by country](https://ourworldindata.org/grapher/gross-public-sector-debt-as-a-proportion-of-gdp) or [trade and globalization data](https://ourworldindata.org/trade-and-globalization) for the whole world.
 
+-   **'US Predominance View' in a Tweet**. This tweet summarizes geographic and geopolitical analysys tools like the ones Peter Zeihan uses. Read it [here](https://x.com/girdley/status/1941108484801806704).
+
 -   **IMF Data Portal**: [data.imf.org](https://www.imf.org/en/Data). You can access World Economic Outlook Database ([here](https://www.imf.org/en/Publications/WEO/weo-database/2025/april) is the April 2025 version), where you can do analysis of countries, groups or download the whole database.
 
 -   **FRED**: the St. Louis Fred site has a lot of historical data, mainly from the US and also mainly about prices like interest rates, inflation, etc... Visit <https://fred.stlouisfed.org>
